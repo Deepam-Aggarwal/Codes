@@ -30,7 +30,7 @@ cashRegister::cashRegister(int cashIn)
 	cashOnHand = cashIn;
 }
 
-int cashRegister::getCurrentBalance()
+int cashRegister::getCurrentBalance() 
 {
 	return cashOnHand;
 }
