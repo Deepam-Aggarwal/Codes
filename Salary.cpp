@@ -15,7 +15,7 @@ class wife
 {
 double b;
 char w_name[10];
-public:
+public: 
 wife(long int,char[]);
 friend void salary(husband, wife);
 };
