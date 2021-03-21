@@ -52,8 +52,8 @@ cout<<"Enter the name of wife : "<<endl;
 cin>>y;
 cout<<"Enter the salary of wife : "<<endl;
 cin>>b;
- husband h(a,x);
- wife w(b,y);
- salary(h,w);
+husband h(a,x);
+wife w(b,y);
+salary(h,w);
 getch();
 }
