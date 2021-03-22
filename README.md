@@ -2,6 +2,14 @@
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 </p>
+<p align="center">
+    <a href="https://github.com/Deepam-Aggarwal/Codes/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/Deepam-Aggarwal/Codes?color=0088ff" />
+    </a>
+    <a href="https://github.com/Deepam-Aggarwal/Codes/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Deepam-Aggarwal/Codes?color=0088ff" />
+    </a>
+</p>
 
 # In C codes:
 ### EvenOdd.c
